@@ -6,6 +6,8 @@
 
 Eu me chamo Larissa, sou aluna do Reprograma na turma On12 de 2021.1 e é um prazer compartilhar um pouco do conhecimento adquirido. Ao longo dessa trajetória venho aprendendo que desenvolver a lógica de programação exige prática e é algo que suma importância para saber os caminhos a seguir e interpretar os dados necessários para resolução daquele determinado problema. Com isso, venho praticando e aliando com o cronograma do curso, sendo assim, a cada dia venho ganhando mais confiança em relação a programação.
 
+
+
 ### <h3>Um resumo sobre essa semana 2</h3>
 
 **Algoritmo** – sequência finita de passos que se usam para resolver um problema.
@@ -24,7 +26,7 @@ Eu me chamo Larissa, sou aluna do Reprograma na turma On12 de 2021.1 e é um pra
 
 **String:** É uma cadeia de caracteres. A identificação é feita quando forma a frase ou palavra entre aspas simples ou duplas.
 
-**Number:**é o tipo de dado número no JavaScript que pode ser identificado com números inteiros ou decimais.
+**Number:** é o tipo de dado número no JavaScript que pode ser identificado com números inteiros ou decimais.
 
 **Boolean:** é o tipo de dado lógico e tem apenas dois valores.
 
@@ -58,6 +60,8 @@ Eu me chamo Larissa, sou aluna do Reprograma na turma On12 de 2021.1 e é um pra
 
 **Condicional** -  são instruções de controle que podemos usar para construir códigos em determinadas condições.
 
+
+
 ###  <h3>Revisão de Git da Semana 1 passo a passo</h3>
 
 1. Cria repositório no github.
@@ -72,8 +76,10 @@ Eu me chamo Larissa, sou aluna do Reprograma na turma On12 de 2021.1 e é um pra
 
 6. Utilizar git push origin <nomedasuabranch>.
 
-   ### <h3>Contato </h3>
+   
 
+   ### <h3>Contato </h3>
+   
    * [Linkedin](https://www.linkedin.com/in/lmrs99/)
    
    * [Github](https://github.com/Larissamrs)
